@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntelliCane</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password (optional)</string>
+    <string name="login_button">LOGIN / REGISTER</string>
+    <string name="data_here">Session Data</string>
+    <string name="logo_desc">LogiCane Logo</string>
+</resources>
